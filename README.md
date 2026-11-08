@@ -109,11 +109,11 @@ The application provides:
 
 The application loads the previously saved models and preprocessing objects. It does not retrain the models when a test CSV is uploaded.
 
-**Live Application:** [Add your deployed Streamlit URL here]
+**Live Application:** https://xycsd7uk7m876pcfy968yk.streamlit.app/
 
 ## 9. GitHub Repository
 
-**GitHub Repository:** [Add your GitHub repository URL here]
+**GitHub Repository:** https://github.com/Kiri-4323/Dry-Bean-Classification-ML/tree/main
 
 ## 10. Project Structure
 
