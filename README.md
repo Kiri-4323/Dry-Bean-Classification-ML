@@ -134,6 +134,6 @@ ML Assignment/
 │   ├── scaler.pkl
 │   └── label_encoder.pkl
 │
-└── notebooks/
+└── notebook/
     └── ML_Assignment_2.ipynb
 ```
